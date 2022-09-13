@@ -19,15 +19,13 @@ h1,h2,h3 {
 }
 
 p { 
-  line-height: 28px; 
-  text-align: justify;
+  line-height: 28px;
 }
 
 hr {
   border-color: #eb5424;
   width: 100px;
   margin-bottom: 40px;
-  
 }
 .title {
   color: #303030;
