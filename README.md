@@ -10,4 +10,4 @@ Asignación de un tamaño correcto a todas las imagenes y cambios dentro de las 
 
 *** Segunda actualización *** 
 
-Cambio de los enlaces dentro del footer de la página web. Se ha eliminado el enlace de Twitter.
+Cambio de los enlaces dentro del footer de la página web. Se ha eliminado el enlace de Twitter, se ha actualizado la imagen de Youtube y de Instagram. Se ha añadido el enlace de Instagram a mi perfil.
