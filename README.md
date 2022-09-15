@@ -8,3 +8,6 @@ dentro del portfolio.
 
 Asignación de un tamaño correcto a todas las imagenes y cambios dentro de las fuentes de texto utilizados dentro del proyecto.
 
+*** Segunda actualización *** 
+
+Cambio de los enlaces dentro del footer de la página web. Se ha eliminado el enlace de Twitter.
